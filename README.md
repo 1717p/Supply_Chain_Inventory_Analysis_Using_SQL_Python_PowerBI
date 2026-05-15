@@ -1,4 +1,6 @@
-#  Vendor Profitability & Sales Performance Insights(SQL · Python · Power BI)
+<!--#  Vendor Profitability & Sales Performance Insights(SQL · Python · Power BI)-->
+# Supply Chain Inventory Analysis & Sales Performance Insights(SQL · Python · Power BI)
+
 
 ## 📘 Project Overview
 
