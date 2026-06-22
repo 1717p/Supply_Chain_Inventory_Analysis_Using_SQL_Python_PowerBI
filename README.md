@@ -47,6 +47,7 @@ This project was carried out in the following steps:
    * Compiled a structured report summarizing findings, interpretations, and business recommendations.
      
    🔏Report is private due to dataset licensing restrictions.
+   
 
 ## 📈 Key Insights:
 - Identified $2.71M in unsold inventory from low-performing vendors
