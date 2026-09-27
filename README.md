@@ -1,5 +1,6 @@
 <!--#  Vendor Profitability & Sales Performance Insights(SQL · Python · Power BI)-->
-<!--# Supply Chain Inventory Analysis & Sales Performance Insights(SQL · Python · Power BI)-->
+<!--# Supply Chain Inventory Analysis & Sales Performance Insights(SQL · Python · Power BI)
+🔏Report is private due to dataset licensing restrictions. -->
 # Supply Chain Inventory Analysis & Sales Performance
 
 SQL | Python | Power BI
@@ -62,8 +63,6 @@ This project was carried out in the following steps:
    * Designed KPI views for sales, purchasing, profitability, vendor concentration, and inventory efficiency.
    * Added interactive filtering and analytical views to help users investigate vendor and brand performance.
    * Compiled a structured report summarizing findings, interpretations, and business recommendations.
-     
-   🔏Report is private due to dataset licensing restrictions.
    
 
 ## 📈 Key Insights:
