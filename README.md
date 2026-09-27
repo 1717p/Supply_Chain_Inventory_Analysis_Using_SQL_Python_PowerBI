@@ -38,12 +38,12 @@ The goal of this analysis is to:
 
 This project was carried out in the following steps:
 
-1. **Database Ingestion & SQL Analysis **
+1. **Database Ingestion & SQL Analysis**
    
    * Performed complex SQL queries to clean, join, and create an **aggregated summary table** for further analysis
    * Engineered business metrics including gross profit, profit margin, stock turnover, and sales-to-purchase ratio.
 
-2. **Data Cleaning & Exploratory Data Analysis(EDA) **
+2. **Data Cleaning & Exploratory Data Analysis(EDA)**
 
    * Used pandas and NumPy for data exploration, cleaning, and handling missing/inconsistent data
    * Investigated vendor concentration, pricing behavior, inventory turnover, and profitability.
