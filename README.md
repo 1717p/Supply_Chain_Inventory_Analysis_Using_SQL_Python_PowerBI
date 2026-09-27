@@ -38,28 +38,29 @@ The goal of this analysis is to:
 
 This project was carried out in the following steps:
 
-1. **Database Ingestion & SQL Analysis**
-
-   * Loaded raw `.csv` files into a SQLite database
+1. **Database Ingestion & SQL Analysis **
+   
    * Performed complex SQL queries to clean, join, and create an **aggregated summary table** for further analysis
+   * Engineered business metrics including gross profit, profit margin, stock turnover, and sales-to-purchase ratio.
 
-2. **Data Cleaning & EDA (Python)**
+2. **Data Cleaning & Exploratory Data Analysis(EDA) **
 
    * Used pandas and NumPy for data exploration, cleaning, and handling missing/inconsistent data
-   * Conducted **Exploratory Data Analysis** to understand patterns and trends
+   * Investigated vendor concentration, pricing behavior, inventory turnover, and profitability.
+   * Used distribution analysis, correlation analysis, confidence intervals, and hypothesis testing.
+   * Segmented vendors and brands based on sales and profitability characteristics.
 
 3. **Business Questions & Insights**
 
    * Addressed key research questions aligned with business goals
    * Compared vendor performance, pricing strategies, and inventory dynamics
 
-4. **Data Visualization (Python & Power BI)**
+4. **Data Visualization And Reporting**
 
    * Created insightful charts using **Matplotlib** and **Seaborn**
-   * Built a **Power BI dashboard** to visualize KPIs and highlight actionable insights
-
-5. **Reporting**
-
+   * Developed an interactive Power BI dashboard.
+   * Designed KPI views for sales, purchasing, profitability, vendor concentration, and inventory efficiency.
+   * Added interactive filtering and analytical views to help users investigate vendor and brand performance.
    * Compiled a structured report summarizing findings, interpretations, and business recommendations.
      
    🔏Report is private due to dataset licensing restrictions.
@@ -69,6 +70,11 @@ This project was carried out in the following steps:
 - Identified $2.71M in unsold inventory from low-performing vendors
 - 65.7% of purchases rely on top 10 vendors → high supply chain risk
 - Bulk purchasing led to 72% cost savings per unit
+
+## 🧰 Technical Stack
+
+Python | Pandas | NumPy | SQLite | SQL | Power BI | DAX
+
 
 ## ✨Final Recommendations 
 * Re-evaluate pricing for low-sales, high-margin brands to boost sales 
