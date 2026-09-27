@@ -1,10 +1,26 @@
 <!--#  Vendor Profitability & Sales Performance Insights(SQL · Python · Power BI)-->
-# Supply Chain Inventory Analysis & Sales Performance Insights(SQL · Python · Power BI)
+<!--# Supply Chain Inventory Analysis & Sales Performance Insights(SQL · Python · Power BI)-->
+# Supply Chain Inventory Analysis & Sales Performance
 
+SQL | Python | Power BI
 
 ## 📘 Project Overview
 
-Effective inventory and sales management are crucial for optimizing profitability in the retail and wholesale sectors. This project focuses on identifying inefficiencies and unlocking insights from transactional and inventory data to support data-driven decision-making.
+S — Situation
+
+A retail and wholesale business was managing purchasing, sales, vendor, and inventory data across multiple transactional sources, making it difficult to identify supplier concentration, slow moving inventory, and profitability issues.
+
+T — Task
+
+The objective was to build an end to end analytics solution that consolidated raw transactional data and translated it into actionable insights around vendor performance, pricing, inventory efficiency, and profitability.
+
+A — Action
+
+I built a SQLite ingestion pipeline, used SQL to transform millions of transactional records into a vendor-brand analytical dataset, used Python for data cleaning, EDA, statistical analysis, and feature engineering, and developed an interactive Power BI dashboard for business users.
+
+R — Result
+
+The analysis identified $2.71M in unsold inventory, 65.7% purchase concentration among the top 10 vendors, and a 72% reduction in unit purchase cost for high-volume orders.
 
 ## 🧩 Business Objectives
 
